@@ -11,10 +11,10 @@ I specialize in MIS reporting, Power BI dashboards, and data‑driven operationa
 
 🔍 About Me
 
-🎯 MIS & Power BI professional with strong exposure to Warehouse & Supply Chain Operations
-📈 Experienced in KPI tracking, compliance monitoring, financial analysis, and governance reporting
-🧠 Passionate about automation, continuous improvement (Kaizen), and data accuracy
-🏢 Experience working with cluster‑level and site‑level dashboards
+🎯 MIS & Power BI professional with strong exposure to Warehouse & Supply Chain Operations.
+📈 Experienced in KPI tracking, compliance monitoring, financial analysis, and governance reporting.
+🧠 Passionate about automation, continuous improvement (Kaizen), and data accuracy.
+🏢 Experience working with cluster‑level and site‑level dashboards.
 
 
 🛠️ Skills & Tools
